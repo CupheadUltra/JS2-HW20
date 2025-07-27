@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:3000/posts";
+const API_URL = "https://68863c16f52d34140f6bbdad.mockapi.io/posts/posts";
 const form = document.getElementById("postForm");
 const container = document.getElementById("postsContainer");
 
